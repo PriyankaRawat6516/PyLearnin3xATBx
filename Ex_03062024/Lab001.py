@@ -1,3 +1,2 @@
-# this is single line comment
-print("Hello World")
+print("Hello world")
 print(2+2)
